@@ -31,6 +31,12 @@ The analysis includes:
 
 ---
 
+## Model Download
+ 
+- **Google Drive:** [Download here](https://drive.google.com/drive/folders/1rrHVO407mychijUm_eeVEMdQTMxn7nTW?usp=drive_link)
+
+The repository includes all necessary configuration and tokenizer files to load the model locally.  
+
 ## References
 
 Ribeiro et al., Generating Summaries with Controllable Readability Levels, 2023.
